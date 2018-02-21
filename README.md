@@ -40,7 +40,7 @@ More elaborate queries via http://blogs.worldbank.org/opendata/first-steps-in-in
 ```
 http://api.worldbank.org/en/countries/KE;XF;XM/indicators/EN.ATM.CO2E.PC?date=1961:2011&format=csv
 
-```
+
 http://api.worldbank.org/en/countries/KE;XF;XM/indicators/EN.ATM.CO2E.PC?date=1961:2011&format=json
 ```
 
